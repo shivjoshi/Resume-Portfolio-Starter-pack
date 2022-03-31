@@ -1,121 +1,128 @@
 {
   "main": {
-    "name": "Sonny Sangha",
-    "occupation": "CEO of PAPA",
-    "description": "I eat, sleep and breathe React",
+    "name": "Shailesh Joshi",
+    "occupation": "CEO of Vital Technolabs",
+    "description": "I love progreamming and build good Web App, Web Products and Apps",
     "image": "profilepic.jpg",
-    "bio": "Hi there! I am Sonny! You might also know me as PAPA React. I've been coding for over 10 years now. As a Full Stack developer I've worked both with startups and large corporations to help build & scale their companies. Along the journey I realised my passion existed in helping others excel and pursue their dreams as upcoming developers. With this passion, I have now trained thousand's of developers across the globe. Through live coaching sessions on Youtube, I have accumulated several MILLION views demonstrating how to apply developer skills in a range of cool builds and challenges. I deliver REAL VALUE by teaching REAL WORLD projects to help students enter the world of web development. You’ll get hands-on experience and learn the skills that are required to succeed in the real-world in this community.",
-    "contactmessage": "Get in touch with me to be a part of the PAPA fam!",
-    "email": "papareact.team@gmail.com",
-    "phone": "+44 1234567899",
+    "bio": "Hi there! I am Shailesh! I am running a small website development company in India, but my passion is about learning leatest technologies and trends, I teah studenst locally and provide them work if they need. I have 13+ years of working experience on Website App, Products and Mobile App developments, throughout my career I have worked on small to large and easy to complex level projects also leads team of 10+ people on some projects, I have now knowldge about better user engagement and user experience.",
+    "contactmessage": "Get in touch with me to solve your problem or build your products!",
+    "email": "swyam.joshi@gmail.com",
+    "phone": "+91 7046900200",
     "address": {
-      "street": "123 Dev Lane",
-      "city": "London",
-      "state": "Devosphere",
-      "zip": "W3B D3V"
+      "street": "Bhavnagar",
+      "city": "India",
+      "state": "Gujrat, India",
+      "zip": "364002"
     },
-    "website": "https://www.papareact.com/course",
-    "resumedownload": "http://papareact.com",
+    "website": "https://shailesh-joshi.com/",
+    "resumedownload": "https://shailesh-joshi.com/",
     "social": [
       {
-        "name": "youtube",
-        "url": "https://www.youtube.com/channel/UCqeTj_QAnNlmt7FwzNwHZnA",
-        "className": "fa fa-youtube"
-      },
-      {
         "name": "facebook",
-        "url": "https://www.facebook.com/sonny.sangha.3",
+        "url": "https://www.facebook.com/swyam.joshi",
         "className": "fa fa-facebook"
       },
       {
         "name": "linkedin",
-        "url": "https://www.linkedin.com/in/saajansangha",
+        "url": "https://www.linkedin.com/in/swyamjoshi",
         "className": "fa fa-linkedin"
       },
       {
         "name": "instagram",
-        "url": "https://www.instagram.com/ssssangha/",
+        "url": "https://www.instagram.com/swyam.joshi/",
         "className": "fa fa-instagram"
       },
       {
         "name": "github",
-        "url": "https://github.com/PapaReact",
+        "url": "https://github.com/shivjoshi",
         "className": "fa fa-github"
       }
     ]
   },
   "resume": {
-    "skillmessage": "My Programming Language Proficiency",
+    "skillmessage": "I code becuase I love it and it gives me happiness",
     "education": [
       {
-        "school": "University of Kent - UK",
+        "school": "CO Jani Institute Of Technology",
         "degree": "Bachelor's Degree, Computer Science",
-        "graduated": "July 2016",
+        "graduated": "July 2007",
         "description": "Graduated with First Class Honours"
       }
     ],
     "work": [
       {
-        "company": "PAPA",
+        "company": "Vital Technolabs",
         "title": "Founder and CEO",
-        "years": "May 2019 - Present",
-        "description": "Cloning all the apps possible. On the way to clone the world! Building the PAPA Fam as large as possible."
+        "years": "August 2019 - Present",
+        "description": "Providing Website Development Service and empowering IT agencies by providing dadicated resources"
       }
     ],
     "skills": [
       {
-        "name": "ReactJs",
+        "name": "PHP",
         "level": "100%"
       },
       {
-        "name": "Python",
+        "name": "Laravel",
+        "level": "60%"
+      },
+      {
+        "name": "codeigniter",
+        "level": "85%"
+      },
+      {
+        "name": "HTML5/CSS",
         "level": "85%"
       },
       {
         "name": "Git",
-        "level": "70%"
+        "level": "55%"
       },
       {
         "name": "JavaScript",
-        "level": "99%"
+        "level": "65%"
       },
       {
         "name": "Web Development",
         "level": "95%"
+      },
+      {
+        "name": "Database Design",
+        "level": "85%"
+      },
+      {
+        "name": "product Architect",
+        "level": "80%"
       }
     ]
   },
   "portfolio": {
     "projects": [
       {
-        "title": "Snapchat Clone (React JS)",
+        "title": "Comfy Workers - UK",
         "category": "",
-        "image": "snapchat.jpg",
-        "url": "https://youtu.be/1kGISk5ft2w"
+        "image": "cw.jpg",
+        "url": "https://www.comfyworkers.com/en/"
       },
       {
-        "title": "Gmail Clone (React JS)",
+        "title": "Find A Trade - UK",
         "category": "",
-        "image": "gmail.jpg",
-        "url": "https://youtu.be/b7nrXjS6Dqs"
+        "image": "findatrade.jpg",
+        "url": "https://www.findatrade.com/"
       },
       {
-        "title": "LinkedIn Clone (React JS)",
+        "title": "Medcare Clinics & Hospitals UAE",
         "category": "",
-        "image": "linkedin.jpg",
-        "url": "https://youtu.be/QaYts9sPmcY"
+        "image": "medcare.jpg",
+        "url": "https://www.medcare.ae/en/"
       }
     ]
   },
   "testimonials": {
     "testimonials": [
       {
-        "text": "Sonny is absolutely excellent, his depth of knowledge & his mentorship really meant a lot to us... I would definitely recommend",
-        "user": "Jorge Fouto"
-      },
-      {
-        "text": "Learning with Sonny has been AWESOME, he makes learning React so easy and approachable, you'll finally feel like you know what's going on!",
-        "user": "Adam Curtis"
+        "text": "Shailesh provided us with web development services for 6 years. In that time he worked on a number of projects, including large scale changes to our 4 websites along with app development and multiple payment systems. I was very pleased with the work he did for us and he always responded quickly if any issues arose, often working out of hours to make sure our systems were running smoothly. You'll be in good hands with Vital Technolabs.",
+        "user": "Andy Goodman"
       }
     ]
   }
